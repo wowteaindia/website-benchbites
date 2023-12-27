@@ -224,11 +224,13 @@ About.addEventListener("click  ", () => {
   
   let sections = document.querySelectorAll("section")
   let navLink = document.querySelectorAll("nav ul li a") 
+  
+
 
   window.onscroll =() =>{
     sections.forEach(sec=>{
       let top = window.scrollY;
-      let offset = sec.offsetTop - 100;
+      let offset = sec.offsetTop - 300;
       let height =sec.offsetHeight;
       let id = sec.getAttribute('id')
 
@@ -238,8 +240,11 @@ if(top >= offset && top < offset + height){
     document.querySelector('nav ul li a[href*='+ id + ']').classList.add("actived")
   })
   sec.classList.add('show-animate')
+  sec.style.opacity="1"
+
 }else{
   sec.classList.remove('show-animate')
+sec.style.opacity="1"
 }
 
     })
