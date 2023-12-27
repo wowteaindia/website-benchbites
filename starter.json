@@ -1,0 +1,44 @@
+[
+        {
+            "name":"Scallop shell pies",
+            "description":"Our passion for the excellent food",
+            "prize":"$12.00"
+        },
+    
+        {
+            "name":"Garlic chilli clams",
+            "description":"Our passion for the excellent food",
+            "prize":"$12.00"
+        },
+        
+        {
+            "name":"Brown shrimp Ranhofer",
+            "description":"Our passion for the excellent food",
+            "prize":"$2.00"
+        },
+        {
+            "name":"Sea bream ceviche",
+            "description":"Our passion for the excellent food",
+            "prize":"$2.00"
+        },
+        {
+            "name":"Moules marinière",
+            "description":"Our passion for the excellent food",
+            "prize":"$6.00"
+        },
+        {
+            "name":"Seared tuna tataki",
+            "description":"Our passion for the excellent food",
+            "prize":"$5.00"
+        },
+        {
+            "name":"Smoky salmon",
+            "description":"Our passion for the excellent food",
+            "prize":"$2.00"
+        },
+        {
+            "name":"Green gazpacho",
+            "description":"Our passion for the excellent food",
+            "prize":"$2.00"
+        }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Plump lobster meat",
+        "description":"Our passion for the excellent food",
+        "prize":"$12.00"
+    },
+    {
+        "name":"Soup and Sandwich",
+        "description":"Our passion for the excellent food",
+        "prize":"$12.00"
+    },
+    {
+        "name":"Tuna salad",
+        "description":"Our passion for the excellent food",
+        "prize":"$2.00"
+    },
+    {
+        "name":"",
+        "description":"",
+        "prize":""
+    },
+    {
+        "name":"French onion soup",
+        "description":"Our passion for the excellent food",
+        "prize":"$6.00"
+    },
+    {
+        "name":"savory crouton",
+        "description":"Our passion for the excellent food",
+        "prize":"$5.00"
+    },
+    {
+        "name":"Crisp romaine lettuce",
+        "description":"Our passion for the excellent food",
+        "prize":"$5.00"
+    }
+
+]

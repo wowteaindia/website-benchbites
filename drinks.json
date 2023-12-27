@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Coke, Coke Light and Tab",
+        "description":"Our passion for the excellent food",
+        "prize":"$10.00"
+    },
+    {
+        "name":"Fanta",
+        "description":"Our passion for the excellent food",
+        "prize":"$1.00"
+    },
+    {
+        "name":"Lemonade",
+        "description":"Our passion for the excellent food",
+        "prize":"$3.00"
+    },
+    {
+        "name":"",
+        "description":"",
+        "prize":""
+    },
+    {
+        "name":"Ginger ale",
+        "description":"Our passion for the excellent food",
+        "prize":"$8.00"
+    },
+    {
+        "name":"sDry Lemon Appletizer",
+        "description":"Our passion for the excellent food",
+        "prize":"$7.00"
+    },
+    {
+        "name":"Fresh Citrus",
+        "description":"Our passion for the excellent food",
+        "prize":"$7.00"
+    }
+
+]

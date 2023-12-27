@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Mixed berry mousse",
+        "description":"Our passion for the excellent food",
+        "prize":"$12.00"
+    },
+    {
+        "name":"Mango and coconut",
+        "description":"Our passion for the excellent food",
+        "prize":"$2.00"
+    },
+    {
+        "name":"Homemade carrot cake",
+        "description":"Our passion for the excellent food",
+        "prize":"$6.00"
+    },
+    {
+        "name":"",
+        "description":"",
+        "prize":""
+    },
+    {
+        "name":"Sponge Cake",
+        "description":"Our passion for the excellent food",
+        "prize":"$12.00"
+    },
+    {
+        "name":"Full Month Cakes",
+        "description":"Our passion for the excellent food",
+        "prize":"$2.00"
+    },
+    {
+        "name":"Sliced Cake",
+        "description":"Our passion for the excellent food",
+        "prize":"$5.00"
+    }
+
+]

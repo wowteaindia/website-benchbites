@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Lobster Bisque",
+        "description":"Our passion for the excellent food",
+        "prize":"$12.00"
+    },
+    {
+        "name":"Onion Rings",
+        "description":"Our passion for the excellent food",
+        "prize":"$12.00"
+    },
+    {
+        "name":"Buffalo Wings or Tenders",
+        "description":"Our passion for the excellent food",
+        "prize":"$2,00"
+    },
+    {
+        "name":"Caesar Selections",
+        "description":"Our passion for the excellent food",
+        "prize":"$2.00"
+    },
+    {
+        "name":"Mozzarella Sticks",
+        "description":"Our passion for the excellent food",
+        "prize":"$6.00"
+    },
+    {
+        "name":"Crab Cake Sandwich",
+        "description":"Our passion for the excellent food",
+        "prize":"$5.00"
+    },
+    {
+        "name":"Grilled chicken",
+        "description":"Our passion for the excellent food",
+        "prize":"$2.00"
+    },
+    {
+        "name":"Roast turkey",
+        "description":"Our passion for the excellent food",
+        "prize":"$2.00"
+    }
+]
