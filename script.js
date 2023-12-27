@@ -12,17 +12,18 @@ Burger.addEventListener("click", () => {
   if(Burgr.checked){
     Hambur.style.top="0px"
     Burger.style.zIndex ="1"
-    Span1.style.background ="black"
-    Span2.style.background ="black"
-    Span3.style.background ="black"
-    Logo.style.opacity ="0"
+    // Span1.style.background ="blue"
+    // Span2.style.background ="black"
+    // Span3.style.background ="black"
+    Logo.style.opacity ="1"
+    Logo.style.zIndex ="9999"
     Hambur.style.opacity ="1"
   }
   else{
     Hambur.style.top="-400px"
-    Span1.style.background ="white"
-    Span2.style.background ="white"
-    Span3.style.background ="white"
+    // Span1.style.background ="white"
+    // Span2.style.background ="white"
+    // Span3.style.background ="white"
     Logo.style.opacity ="1"
     Hambur.style.opacity ="0"
 
@@ -242,9 +243,12 @@ if(top >= offset && top < offset + height){
   sec.classList.add('show-animate')
   sec.style.opacity="1"
 
+
 }else{
   sec.classList.remove('show-animate')
 sec.style.opacity="1"
+
+
 }
 
     })

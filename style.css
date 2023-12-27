@@ -1511,6 +1511,10 @@ width: 67%;
 
 @media(max-width:1050px){
   /* -----nav----- */
+  #span1,#span2,#span3{
+    background: #fbad1b;
+
+  }
   nav{
     justify-content: space-between;
     padding: 0 20px;
@@ -1529,7 +1533,7 @@ width: 67%;
 .hambur{
   display: flex;
   flex-direction: column;
-  background-color: aliceblue;
+  background-color:white;
   justify-content: space-between;
   height: 35vh;
   padding: 20px 18px;
