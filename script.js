@@ -12,12 +12,12 @@ Burger.addEventListener("click", () => {
   if(Burgr.checked){
     Hambur.style.top="0px"
     Burger.style.zIndex ="1"
-    // Span1.style.background ="blue"
-    // Span2.style.background ="black"
-    // Span3.style.background ="black"
     Logo.style.opacity ="1"
     Logo.style.zIndex ="9999"
     Hambur.style.opacity ="1"
+    Hambur.style.display ="flex"
+
+
   }
   else{
     Hambur.style.top="-400px"
@@ -26,6 +26,8 @@ Burger.addEventListener("click", () => {
     // Span3.style.background ="white"
     Logo.style.opacity ="1"
     Hambur.style.opacity ="0"
+    Hambur.style.display ="none"
+
 
   }
 })
